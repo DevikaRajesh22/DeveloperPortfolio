@@ -1,3 +1,5 @@
+import { link } from "fs";
+
 export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
@@ -140,13 +142,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link:'https://www.github.com/DevikaRajesh22'
     },
     {
       id: 2,
       img: "/twit.svg",
+      link:'https://x.com/DevikaRajesh22'
     },
     {
       id: 3,
       img: "/link.svg",
+      link:'https://www.linkedin.com/in/devikarajesh'
     },
   ];
