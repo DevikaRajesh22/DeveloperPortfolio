@@ -94,7 +94,7 @@ export const navItems = [
       des: "Explore my developer portfolio, crafted with Next.js and Framer Motion, showcasing innovative projects and dynamic animations.",
       img: "/portfolio.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "https://devikarajesh.vercel.app/",
     },
     {
       id: 4,
