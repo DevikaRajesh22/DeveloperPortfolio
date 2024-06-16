@@ -131,7 +131,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "SSLC (2027 - 2018)",
+      title: "SSLC (2017 - 2018)",
       desc: "A+",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
