@@ -12,7 +12,7 @@ const Footer = () => {
             </h1>
             <p className='text-white-200 md:mt-10 my-5 text-center'>Reach out to me today and let&apos;s discuss how I can help you achieve your goals</p>
             <a href='mailto:devikarajesh141@gmail.com'>
-                <MagicButton title='Let&apos;get in touch' icon={<FaLocationArrow/>} position='right'/>
+                <MagicButton title='Let&apos;s get in touch' icon={<FaLocationArrow/>} position='right'/>
             </a>
         </div>
         <div className='flex mt-16 md:flex-row flex-col justify-between items-center'>
